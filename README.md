@@ -1,2 +1,3 @@
 # Keylogger
-Python'da yazılmış etik keylogegr
+Python'da yazılmış etik keyloggger
+Etiğe uygun kullanınız.
